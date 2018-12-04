@@ -1,0 +1,6 @@
+/Users/macbookair/Projects/CompanhiaAerea/CompanhiaAerea/bin/Debug/CompanhiaAerea.exe
+/Users/macbookair/Projects/CompanhiaAerea/CompanhiaAerea/bin/Debug/CompanhiaAerea.pdb
+/Users/macbookair/Projects/CompanhiaAerea/CompanhiaAerea/obj/x86/Debug/CompanhiaAerea.csproj.CoreCompileInputs.cache
+/Users/macbookair/Projects/CompanhiaAerea/CompanhiaAerea/obj/x86/Debug/CompanhiaAerea.exe
+/Users/macbookair/Projects/CompanhiaAerea/CompanhiaAerea/obj/x86/Debug/CompanhiaAerea.pdb
+/Users/macbookair/Projects/CompanhiaAerea/CompanhiaAerea/obj/x86/Debug/CompanhiaAerea.csprojAssemblyReference.cache
